@@ -1,0 +1,166 @@
+body, h1, p, a {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .h1 {
+    font-family: "Butcherman", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+    background-color: #000000;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  header {
+    display:flex;
+    justify-content: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #6B0504;
+    color: rgb(0, 0, 0);
+    padding: 10px 0;
+    padding-left: 10px;
+  }
+  
+  nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 20px;
+  }
+  
+  main {
+    margin: 20px 0;
+    font-size: x-large;
+    color: #ffffff;
+  }
+  .reviewers {
+    margin-top: 30px;
+    padding-bottom: 50px;
+    display: flex;
+    align-items: stretch;
+    justify-content: row;
+    border-radius: 40%;
+  }
+
+ .reviewText {
+  font-size: 30px;
+  padding-top: 50px;
+ }
+ .reviewBox {
+  margin-left: 20px;
+  margin-right: 20px;
+ }
+  .intro {
+    padding-bottom: 5px;
+    margin-top: 20px;
+  }
+  .stars {
+    padding-top: 20px;
+    padding-left: 10px;
+      display:flex;
+      align-items: flex-start;
+      justify-content: row;
+      font-size: 40px;
+      color: #EAC45F;
+      
+  }
+  .logo{
+    border: 1px solid #EAC45F;
+    border-radius: 10%;
+    height: 400px;
+    width: 400px;
+  }
+  
+  .button {
+    margin-right: 10px;
+    background-color: solid #EAC45F;
+    color: blue;
+  }
+  
+  footer {
+    margin-top: 100px;
+    font-size: larger;
+    height: 100px;
+    background-color: #6B0504;
+    color: rgb(0, 0, 0);
+    padding: 10px 0;
+  }
+  
+  .contact {
+    padding-top: 6px;
+    display: flex;
+    align-items: row;
+    padding-left: 840px;
+  }
+  
+  .linkedin {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  
+  .rick {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  
+  .insta {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .name {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .contactLabels {
+    color: #ffffff;
+    display: flex;
+    align-items: row;
+    padding-left: 810px;
+  }
+  .divider {
+    border-bottom: 5px solid #EAC45F;
+  }
+  .staff{
+    height: 400px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+    border: 3px solid #EAC45F;
+  }
+  .title {
+    font-weight: bold;
+    padding-bottom: 10px;
+    font-size: larger;
+  }
+  .staffName {
+    padding-bottom: 10px;
+    font-size: large;
+  }
+  .h2 {
+    font-size: xx-large;
+  }
+  .info {
+    margin-bottom: 20px;
+  }
+
+  .question {
+    background-color: #6B0504;
+    border-width: 1,2;
+    border-radius: 100%;
+    font-size: 25px;
+    margin-bottom: 15px;
+  }
+.faq {
+  font-size: 30px;
+}
+  .answer {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }

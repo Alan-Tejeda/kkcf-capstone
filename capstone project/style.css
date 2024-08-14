@@ -1,0 +1,47 @@
+.learn-more {
+    margin-right: 10px;
+    background-color: orange;
+    color: blue;
+  }
+
+  body, h1, p, a {
+    margin: 0;
+    padding: 0;
+}
+
+.h1 {
+    font-family: "Butcherman", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+   
+  }
+  
+header {
+  background-color: #6B0504;
+  color: rgb(0, 0, 0);
+  padding: 10px 0;
+  padding-left: 10px;
+}
+
+nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 20px;
+}
+
+.logo {
+    border: 1px solid #EAC45F;
+    border-radius: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+footer {
+  padding-left: 880px;
+  padding-top: 5px;
+  background-color: #6B0504;
+  font-size: larger;
+  color: rgb(0, 0, 0);
+}
